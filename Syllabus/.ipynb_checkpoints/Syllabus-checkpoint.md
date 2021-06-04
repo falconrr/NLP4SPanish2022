@@ -74,7 +74,7 @@ Alternative corpora resources.
 
 | Date | Class | Tasks |
 | :---  | ----------- | ----------- |
-| Week 1 | Text processing on the Linux/Mac Terminal| - For Mac users the Terminal is already installed. <br /> - For Windows users follow instructions for manual installation of the Linux subsystem here: [LinuxWindows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)|
+|  <font size="3"> Week 1 </font> | Text processing on the Linux/Mac Terminal| - For Mac users the Terminal is already installed. <br /> - For Windows users follow instructions for manual installation of the Linux subsystem here: [LinuxWindows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)|
 | Week 1 | - Text processing on the Linux/Mac Terminal <br /> - File management on the Linux/Mac Terminal <br /> - Introduction to GitHub | - Create your GitHub Account: [GitHub](https://github.com/) <br /> - Clone the class repository: [NLP4Spanish](https://github.com/falconrr/NLP4SPanish) <br /> - Lab assignment 1|
 |Week 2| Using Python for basic NLP functions| |
 |Week 2| - Using Python for basic NLP functions <br /> - Using Jupyter Notebook| Lab assignment 2|
