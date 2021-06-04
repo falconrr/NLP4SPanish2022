@@ -86,3 +86,4 @@ Alternative corpora resources.
 |Week 5| Machine learning approaches to NLP | Train your machine learning classifier|
 |Week 6| Presentations|  |
 |Week 6| - Presentations <br /> - Wrap up | Turn in Final Report |
+
