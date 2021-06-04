@@ -71,8 +71,9 @@ Alternative corpora resources.
 -	Srinivasa-Desikan, B. (2018). Natural Language Processing and Computational Linguistics: A practical guide to text analysis with Python, Gensim, spaCy, and Keras. Packt Publishing Ltd. (Chapters 2-3)
 
 ## Schedule
-| Date | Class | Tasks|
-| ----------- | ----------- | ----------- |
+
+| Date | Class | Tasks |
+| :---  | ----------- | ----------- |
 | Week 1 | Text processing on the Linux/Mac Terminal| - For Mac users the Terminal is already installed. <br /> - For Windows users follow instructions for manual installation of the Linux subsystem here: [LinuxWindows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)|
 | Week 1 | - Text processing on the Linux/Mac Terminal <br /> - File management on the Linux/Mac Terminal <br /> - Introduction to GitHub | - Create your GitHub Account: [GitHub](https://github.com/) <br /> - Clone the class repository: [NLP4Spanish](https://github.com/falconrr/NLP4SPanish) <br /> - Lab assignment 1|
 |Week 2| Using Python for basic NLP functions| |
