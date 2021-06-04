@@ -18,7 +18,7 @@ On completion of the course, you should be able to:
 
 Student success relating to these objectives will be assessed on (tentative and subject to revision):
 -	**Lab assignments**: These assignments will require you to implement already-prepared computational algorithms on Spanish datasets and explore potential improvements and applications.  
--	**Final Report**: you will write a report about the use and implementation of three NLP applications that you might find useful for your own work and research. Bear in mind the use of UF supercomputing resources (HyperGator).
+-	**NLP Proposal**: you will write a brief proposal about a research project in which you will be using NLP applications. Think about how different NLP tools and approaches can boost your work and be useful for your own research. Bear in mind the use of UF supercomputing resources (HyperGator).
 -	 **Course project**: you will extract a Spanish corpus for developing an NLP application. The project consists of two parts. First, you will create an annotated dataset of Spanish. Then, you will present to the class the development of your own machine learning classifier:
     1. topic classification: classify a text based on a topic or relevance
     2. sentiment anaysis: detect positive, negative or neutral sentiment in a text.
@@ -71,6 +71,7 @@ Alternative corpora resources.
 -	Srinivasa-Desikan, B. (2018). Natural Language Processing and Computational Linguistics: A practical guide to text analysis with Python, Gensim, spaCy, and Keras. Packt Publishing Ltd. (Chapters 2-3)
 
 ## Schedule
+(Tentative and subject to revision)
 
 | Date  | Class       | Tasks       |
 | :---  | ----------- | ----------- |
@@ -85,5 +86,5 @@ Alternative corpora resources.
 |Week 5| Machine learning approaches to NLP| |
 |Week 5| Machine learning approaches to NLP | Train your machine learning classifier|
 |Week 6| Presentations|  |
-|Week 6| - Presentations <br /> - Wrap up | Turn in Final Report |
+|Week 6| - Presentations <br /> - Wrap up | Turn in NLP Proposal |
 
