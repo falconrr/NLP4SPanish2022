@@ -18,7 +18,7 @@ On completion of the course, you should be able to:
 
 Student success relating to these objectives will be assessed on (tentative and subject to revision):
 -	**Lab assignments**: These assignments will require you to implement already-prepared computational algorithms on Spanish datasets and explore potential improvements and applications.  
--	**NLP Application**: you will extract a Spanish corpus for developing an NLP application. The project consists of two parts. First, you will create an annotated dataset of Spanish. Think about how different NLP tools and approaches can boost your work and be useful for your own research. Then, you will present to the class the development of your own machine learning classifier:
+-	**NLP Application**: you will extract a Spanish corpus for developing an NLP application. The project consists of two parts. First, you will create an annotated dataset of Spanish. Think about how different NLP tools and approaches can boost your work and be useful for your own research. Then, you will present to the class the development of your own machine learning classifier. There are three ML classifiers you can choose from:
     1. topic classification: classify a text based on a topic or relevance
     2. sentiment anaysis: detect positive, negative or neutral sentiment in a text.
     3. intent classification: classification based on the purpose of the illocutionary act: complaint, request, feedback, etc.
