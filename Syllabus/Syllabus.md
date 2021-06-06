@@ -5,7 +5,7 @@ Department of Spanish and Portuguese Studies, University of Florida**
 This course is an introduction to Natural Language Processing (NLP) technologies and their application to the linguistic analysis of Spanish texts. The course provides a survey of current technologies that are used in the field of computational linguistics while using Spanish for the application of NLP tools. The class is designed to allow you to gradually develop simple programming skills in Linux/Mac command line and Python for text processing that will allow you to learn a set of 21st century skills in NLP in high demand for your future career choice in academia or industry.
 
 The course will have three general components. **First**, the basic practical skills for text processing in Linux/Mac command line and Python will be introduced using Spanish texts. The basics of programming will be assigned via two free online courses in *LinkedIn Learning* and with in-class exercises. These basic aspects of programming will be necessary for installing and running the NLP applications.
-**Next**, the class will delve into the *Python Natural Language Toolkit* (NLTK) and *spaCy*, two libraries used for common NLP tasks (e.g., sentence segmentation, word tokenization, dependency parsing, sentiment analysis, named-entity recognition, and text classification). **Finally**, you will work towards extracting and creating your own annotated corpus of Spanish. Here you will learn how to extract Spanish data from *Twitter*. With the annotated corpus you will develop and train a simple machine learning classifier.  
+**Next**, the class will delve into the *Python Natural Language Toolkit* (NLTK) and *spaCy*, two libraries used for common NLP tasks (e.g., sentence segmentation, word tokenization, dependency parsing, sentiment analysis, named-entity recognition, and text classification). **Finally**, you will work towards extracting and creating your own annotated corpus of Spanish. Here you will learn how to extract Spanish data from *Twitter*. With the annotated corpus you will develop an NLP Application.  
 
 ## Course Objectives
 On completion of the course, you should be able to:
@@ -18,14 +18,13 @@ On completion of the course, you should be able to:
 
 Student success relating to these objectives will be assessed on (tentative and subject to revision):
 -	**Lab assignments**: These assignments will require you to implement already-prepared computational algorithms on Spanish datasets and explore potential improvements and applications.  
--	**NLP Proposal**: you will write a brief proposal about a research project in which you will be using NLP applications. Think about how different NLP tools and approaches can boost your work and be useful for your own research. Bear in mind the use of UF supercomputing resources (HyperGator).
--	 **Course project**: you will extract a Spanish corpus for developing an NLP application. The project consists of two parts. First, you will create an annotated dataset of Spanish. Then, you will present to the class the development of your own machine learning classifier:
+-	**NLP Application**: you will extract a Spanish corpus for developing an NLP application. The project consists of two parts. First, you will create an annotated dataset of Spanish. Think about how different NLP tools and approaches can boost your work and be useful for your own research. Then, you will present to the class the development of your own machine learning classifier:
     1. topic classification: classify a text based on a topic or relevance
     2. sentiment anaysis: detect positive, negative or neutral sentiment in a text.
     3. intent classification: classification based on the purpose of the illocutionary act: complaint, request, feedback, etc.
-
+ 
 ## Class Meetings
-*Tuesdays and Thursdays at 10am ET time.*
+*TBA*
 - Join from computer or mobile:  
 https://iu.zoom.us/j/3148552403
 
@@ -84,7 +83,7 @@ Alternative corpora resources.
 |Week 4| Obtaining Twitter data| Twitter Developer API: [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)|
 |Week 4| Using your Twitter data | Set up the solution for your task and start annotating your data|
 |Week 5| Machine learning approaches to NLP| |
-|Week 5| Machine learning approaches to NLP | Train your machine learning classifier|
+|Week 5| Machine learning Classifier | Train your machine learning classifier|
 |Week 6| Presentations|  |
-|Week 6| - Presentations <br /> - Wrap up | Turn in NLP Proposal |
+|Week 6| - Presentations <br /> - Wrap up | Show to your classmates your NLP Application |
 
