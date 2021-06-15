@@ -1,6 +1,8 @@
 # Natural Language Processing for Spanish
 **Summer 2021 – Dr. Falcon Restrepo-Ramos  <br />
 Department of Spanish and Portuguese Studies, University of Florida**
+Email: fdrestre@iu.edu
+Tel: 304-777-3447
 
 This course is an introduction to Natural Language Processing (NLP) technologies and their application to the linguistic analysis of Spanish texts. The course provides a survey of current technologies that are used in the field of computational linguistics while using Spanish for the application of NLP tools. The class is designed to allow you to gradually develop simple programming skills in Linux/Mac command line and Python for text processing that will allow you to learn a set of 21st century skills in NLP in high demand for your future career choice in academia or industry.
 
