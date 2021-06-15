@@ -1,6 +1,6 @@
 # Natural Language Processing for Spanish
 **Summer 2021 – Dr. Falcon Restrepo-Ramos  <br />
-Department of Spanish and Portuguese Studies, University of Florida**
+Department of Spanish and Portuguese Studies, University of Florida**  <br />
 Email: fdrestre@iu.edu
 Tel: 304-777-3447
 
