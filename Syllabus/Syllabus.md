@@ -26,8 +26,8 @@ Student success relating to these objectives will be assessed on (tentative and 
     3. intent classification: classification based on the purpose of the illocutionary act: complaint, request, feedback, etc.
  
 ## Class Meetings
-**Tuesdays and Thursdays 12-1pm**
-June 28 - August 6 (2021)
+**Tuesdays and Thursdays 12-1pm** <br />
+The course runs from June 28 to August 6, 2021.
 
 - Join from computer or mobile:  
 https://iu.zoom.us/j/3148552403
