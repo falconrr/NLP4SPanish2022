@@ -1,4 +1,4 @@
-## ¡La práctica es clave!
+## ¡La práctica es clave! Te animo a que trabajes con un compañero. Sube las respuestas y/o pantallazos a Canvas. 
 
 **Datos**: LowerBeginner.txt
 
@@ -19,5 +19,9 @@ Vamos a descargar el repositorio del curso en GitHub. Con él ustedes tendrán l
 " target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg"  
 alt="GitHub" width="240" height="180" border="10" /></a>
 - Descarga [Github Desktop](https://desktop.github.com/)
-- Clona el repositorio: <br/>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+- Clona el repositorio en tu computadora usando esta URL `https://github.com/falconrr/NLP4SPanish.git`. <br/>
+![alt text][logo]
+
+[logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoclone.PNG?raw=true "Logo Title Text 2"
+ Así `file > clone repository`
+ - ¡Listo! Si tienes alguna duda o pregunta puedes contactarme a mí o a tus compañeros.
