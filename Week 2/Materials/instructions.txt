@@ -1,0 +1,36 @@
+#instructions for tokenizer
+first, make sure you have NLTK installed properly. run:
+
+pip install nltk
+
+next select your file. there's a testfile.txt provided. note the complete file name!
+
+finally you can tokenize your text. run:
+
+python tokenizetextfile.py testfile.txt
+
+the output will look like this (hopefully):
+
+['Hola', '.']
+['Esto', 'es', 'una', 'prueba', '.']
+['Esto', 'también', 'es', 'una', 'prueba', '.']
+['Sorprendentemente', ',', 'esto', 'también', 'es', 'una', 'prueba', '.']
+['Existe', 'la', 'posibilidad', 'de', 'que', 'esta', 'línea', 'también', 'sea', 'una', 'prueba', '.']
+['Recuerde', 'el', "'off", 'by', 'one', 'error', "'", '.', 'Esta', 'no', 'es', 'la', 'línea', 'seis', ',', 'es', 'la', 'línea', 'cinco', '.']
+['Tokenizar', 'es', 'fácil', '.']
+['Para', 'un', 'experimento', 'divertido', ',', 'vea', 'cómo', 'los', 'caracteres', 'extraños', 'como', '``', ',', "'", ',', ';', ',', '^', 'y', '\\', 'afectan', 'su', 'código', '.']
+
+#instructions for segmenter
+first, make sure you have NLTK installed properly. run:
+
+pip install nltk
+
+next select your file. there's a testfile2.txt provided. note the complete file name!
+
+finally you can segment your text. run:
+
+python segmenttestfile.py testfile2.txt
+
+the output will look like this (hopefully):
+['Hola.', 'Esto es una prueba.', 'Esto también es una prueba.', 'Sorprendentemente, esto también es una prueba.', 'Existe la posibilidad de que esta línea también sea una prueba.']
+["Recuerde el 'off by one error'.", 'Esta no es la línea seis, es la línea cinco.', 'Tokenizar es fácil.', 'Para un experimento divertido, vea cómo los caracteres extraños como ", \',;, ^ y \\ afectan su código.']
