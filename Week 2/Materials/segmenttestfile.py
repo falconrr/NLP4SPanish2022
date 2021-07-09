@@ -1,4 +1,4 @@
-import shutup;shutup.please() # ignora esto por favor. No es necesario en tu código
+#import shutup;shutup.please() # ignora esto por favor. No es necesario en tu código
 
 import nltk # importamos módulos
 import sys
