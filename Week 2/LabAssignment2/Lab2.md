@@ -6,7 +6,7 @@ You will learn how to:
 - modify python scripts to fit your needs
 - run python scripts with your data
 
-#### Suggestions: work in couples if necessary and adapt the Python scripts covered during class
+#### Suggestions: work in couples if necessary and adapt the Python scripts covered during class. Tutorial to solve any issues on Wednesday 7/14. 
 
 ### Task 1: Create a Python program that:
 Instructions:
