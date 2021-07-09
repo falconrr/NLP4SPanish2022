@@ -28,7 +28,7 @@ Instructions:
 13. print the complete sentence with no accented nor upper case characters. 
 
 
-### Task 2: Run both the tokenizer and sentence segmenter scripts
-**Datos**: LowerIntermediate.txt
-Were the Python programs succesful in tokenizing and segmenting the text?
+### Task 2: Run both the tokenizer and sentence segmenter scripts <br/>
+**Datos**: LowerIntermediate.txt <br/>
+Were the Python programs succesful in tokenizing and segmenting the text?<br/>
 Did you find any issues? If so, what type of issues? Suggest a solution. 
