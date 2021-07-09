@@ -42,6 +42,10 @@ Both the tokenized and segmented files should look like this:
 
 [logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprinttokens.PNG?raw=true "tokenize"
 
+![alt text][logo]
+
+[logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprinttokens.PNG?raw=true "Logo Title Text 2"
+
 #### What to submit?
 1. a python script for Task 1
 2. Screenshots of tokenizer and segmenter in action and the printing of the output line by line.
