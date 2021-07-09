@@ -44,7 +44,7 @@ Both the tokenized and segmented files should look like this:
 
 ![alt text][logo2]
 
-[logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprintsegments.PNG?raw=true "Logo2 Title Text 2"
+[logo2]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprintsegments.PNG?raw=true "Logo2 Title Text 2"
 
 #### What to submit?
 1. a python script for Task 1
