@@ -1,4 +1,4 @@
-## ¡Práctica de Python! Maneja Python y manejarás NLP
+## Lab 2: ¡Práctica de Python! Maneja Python y manejarás NLP
 
 **Goals:** 1) Create your very own python Program. 2) Replicate the tokenizer and segmenter tasks with different data
 
