@@ -6,8 +6,8 @@ You will learn how to:
 - modify python scripts to fit your needs
 - run python scripts with your data
 
+### Task 1: Create a Python program that:
 Instructions:
-#### Create a Python program that:
 1. asks for name and year of graduation of the user
 2. append the input into two variables. 
 3. print name and year of graduation
@@ -23,7 +23,7 @@ Instructions:
 13. print the complete sentence with no accented nor upper case characters. 
 
 
-### Run both the tokenizer and sentence segmenter scripts
+### Task 2: Run both the tokenizer and sentence segmenter scripts
 **Datos**: LowerIntermediate.txt
 Were the Python programs succesful in tokenizing and segmenting the text?
 Did you find any issues? If so, what type of issues? Suggest a solution. 
