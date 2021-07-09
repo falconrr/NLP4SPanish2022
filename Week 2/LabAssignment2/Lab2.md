@@ -6,6 +6,8 @@ You will learn how to:
 - modify python scripts to fit your needs
 - run python scripts with your data
 
+#### Suggestions: work in couples if necessary and adapt the Python scripts covered during class
+
 ### Task 1: Create a Python program that:
 Instructions:
 1. asks for name and year of graduation of the user
