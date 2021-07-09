@@ -11,11 +11,11 @@ You will learn how to:
 ### Task 1: Create a Python program that:
 Instructions:
 1. asks for name and year of graduation of the user. <br/>
-            **(Hint: for year of graduation we will need to modify the string to integer. ---> VARIABLE = int(input("1234"))**
+            **(Hint: for year of graduation we will need to modify the string to integer. ---> VARIABLENUM = int(input("1234"))**
 2. append the input into two variables. 
 3. print name and year of graduation
 4. print message of congratulations if graduation is on or before 2021. <br/>
-            **(Hint: use the lower than sign. ---> *if VARIABLE < 2021:*)**
+            **(Hint: use the lower than sign. ---> *if VARIABLENUM < 2021:*)**
 5. print message of encouragemnt if graduation is in the future
 6. then in the same program, ask the user for a sentence in Spanish with as many characters with orthograpic accents (i.e., tildes) as possible. Asks them to be creative. 
 7. Import the regular expression module
