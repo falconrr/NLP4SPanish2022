@@ -32,3 +32,7 @@ Instructions:
 **Datos**: LowerIntermediate.txt <br/>
 Were the Python programs successful in tokenizing and segmenting the text?<br/>
 Did you find any issues? If so, what type of issues? Suggest a solution. 
+
+#### What to submit?
+1. a python script for Task 1
+2. Screenshots of tokenizer and segmenter in action and pointing out any issues you found.
