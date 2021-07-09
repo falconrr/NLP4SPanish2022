@@ -38,13 +38,13 @@ Instructions:
 
 Both the tokenized and segmented files should look like this:
 
-![alt text][tokenize]
-
-[logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprinttokens.PNG?raw=true "tokenize"
-
 ![alt text][logo]
 
 [logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprinttokens.PNG?raw=true "Logo Title Text 2"
+
+![alt text][logo]
+
+[logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprintsegments.PNG?raw=true "Logo Title Text 2"
 
 #### What to submit?
 1. a python script for Task 1
