@@ -30,5 +30,5 @@ Instructions:
 
 ### Task 2: Run both the tokenizer and sentence segmenter scripts <br/>
 **Datos**: LowerIntermediate.txt <br/>
-Were the Python programs succesful in tokenizing and segmenting the text?<br/>
+Were the Python programs successful in tokenizing and segmenting the text?<br/>
 Did you find any issues? If so, what type of issues? Suggest a solution. 
