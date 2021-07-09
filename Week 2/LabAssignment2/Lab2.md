@@ -24,8 +24,8 @@ Instructions:
            **(Hint: you might need to use the *re.sub* function several times.**
 11. print the sentence without any accented characters
 12. else print a message saying that the sentence has no *tildes
-13. change the sentence to lower case
-14. print the complete sentence with no accented nor upper case characters. 
+13. change the sentence to lower case and append to a new list
+14. print the new sentence with no accented nor upper case characters. 
 
 
 ### Task 2: Run both the tokenizer and sentence segmenter scripts and print in Linux line by line the output<br/>
