@@ -28,11 +28,20 @@ Instructions:
 13. print the complete sentence with no accented nor upper case characters. 
 
 
-### Task 2: Run both the tokenizer and sentence segmenter scripts <br/>
+### Task 2: Run both the tokenizer and sentence segmenter scripts and print in Linux line by line the output<br/>
 **Datos**: LowerIntermediate.txt <br/>
-Were the Python programs successful in tokenizing and segmenting the text?<br/>
-Did you find any issues? If so, what type of issues? Suggest a solution. 
+Instructions:
+1. Run the tokenizer script and save the output '>' 
+2. Run the segmenter script and save the output '>'
+3. Note that the output is presented by default between spaces and commas
+4. Use the 'sed' or the 'tr' command to print the output line by line 
+
+Both the tokenized and segmented files should look like this:
+
+![alt text][tokenize]
+
+[logo]: https://github.com/falconrr/NLP4SPanish/blob/main/Media/Images/howtoprinttokens.PNG?raw=true "tokenize"
 
 #### What to submit?
 1. a python script for Task 1
-2. Screenshots of tokenizer and segmenter in action and pointing out any issues you found.
+2. Screenshots of tokenizer and segmenter in action and the printing of the output line by line.
