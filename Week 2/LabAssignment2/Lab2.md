@@ -19,13 +19,13 @@ Instructions:
 5. print message of encouragement if graduation is in the future
 6. then in the same program, ask the user for a sentence in Spanish with as many characters with orthograpic accents (i.e., tildes) as possible. Asks them to be creative. 
 7. Import the regular expression module
-8. search if the sentence has any *tildes*. Else print a message saying that the sentence has no *tildes
-9. print a message that tells the user that you need to change all the *tildes* to characters with no *tildes*. 
+8. search if the sentence has any *tildes*. Print a message that tells the user that you need to change all the *tildes* to characters with no *tildes*.
 10. substitute all the characters with tildes to no accented characters <br/>
            **(Hint: you might need to use the *re.sub* function several times.**
 11. print the sentence without any accented characters
-12. change the sentence to lower case
-13. print the complete sentence with no accented nor upper case characters. 
+12. else print a message saying that the sentence has no *tildes
+13. change the sentence to lower case
+14. print the complete sentence with no accented nor upper case characters. 
 
 
 ### Task 2: Run both the tokenizer and sentence segmenter scripts and print in Linux line by line the output<br/>
