@@ -22,7 +22,7 @@ Instructions:
 8. search if the sentence has any *tildes*. Else print a message saying that the sentence has no *tildes
 9. print a message that tells the user that you need to change all the *tildes* to characters with no *tildes*. 
 10. substitute all the characters with tildes to no accented characters <br/>
-           **(hint: you might need to use the *re.sub* function several times.**
+           **(Hint: you might need to use the *re.sub* function several times.**
 11. print the sentence without any accented characters
 12. change the sentence to lower case
 13. print the complete sentence with no accented nor upper case characters. 
