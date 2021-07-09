@@ -16,7 +16,7 @@ Instructions:
 3. print name and year of graduation
 4. print message of congratulations if graduation is on or before 2021. <br/>
             **(Hint: use the lower than sign. ---> *if VARIABLENUM < 2021:*)**
-5. print message of encouragemnt if graduation is in the future
+5. print message of encouragement if graduation is in the future
 6. then in the same program, ask the user for a sentence in Spanish with as many characters with orthograpic accents (i.e., tildes) as possible. Asks them to be creative. 
 7. Import the regular expression module
 8. search if the sentence has any *tildes*. Else print a message saying that the sentence has no *tildes
