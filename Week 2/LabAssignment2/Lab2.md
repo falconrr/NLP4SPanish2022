@@ -33,7 +33,7 @@ Instructions:
 Instructions:
 1. Run the tokenizer script and save the output '>' 
 2. Run the segmenter script and save the output '>'
-3. Note that the output is presented by default between spaces and commas
+3. Note that the output is presented by default between spaces for tokens, and (1) single quote and a comma for sentences
 4. Use the 'sed' or the 'tr' command to print the output line by line 
 
 Both the tokenized and segmented files should look like this:
