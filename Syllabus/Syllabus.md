@@ -1,4 +1,4 @@
-# Natural Language Processing for Spanish (May)
+# Natural Language Processing for Spanish
 **Summer 2022 (5/16 - 6/17) – Dr. Falcon Restrepo-Ramos  <br />
 Department of World Languages and Cultures, Minnesota State University**  <br />
 Email: falcon.restreporamos@mnsu.edu  <br />
