@@ -32,7 +32,7 @@ Student success relating to these objectives will be assessed on (tentative and 
 
     1. Teaching Portfolio: You can create a teaching portfolio that includes an analysis of positive, negative or neutral sentiment in students' comments.
     2. Assessing L2 Spanish Writing Development: Interested into examining language development in L2 Spanish. You can use SEÑAL to create a comparative analysis of your L2 Spanish writing or that of your students.  
-    3. Machine Learning Text Classifier: Here, you will develop a machine learning classifier for examining a phenomenon in the Spanish language. You will extract, annotate data and use machine learning algorithms to train a text classifier. This option is the most challenging but one of the most rewarding if you wish to pursue research or want to learn more about machine learning.
+    3. Machine Learning Text Classifier: Here, you will develop a machine learning classifier for examining a phenomenon in the Spanish language. You will (extract and) annotate data and use machine learning algorithms to train a text classifier. This option is the most challenging but one of the most rewarding if you wish to pursue research or want to learn more about machine learning.
 
 Ojo: you will present the development of your NLP project on the class of **June 15th**.
 
@@ -69,8 +69,7 @@ Alternative corpora resources.
 | Week 1-Class 1| **Práctica de Linux**. Procesamiento de textos utilizando el Command Line. Empieza aquí [Linux Online](https://vfsync.org/vm.html) |
 | Week 1-Class 2| **Práctica de Python** <br /> - Procesamiento de textos utilizando Python. Descarga el editor de texto [**Atom**](https://atom.io/). <br /> | **Lab assignment 1**|
 |Week 2-Class 1| Introducción a [NLTK](https://www.nltk.org/) para tareas típicas de PLN| |
-|Week 2-Class 2| Introducción a [spaCy](https://spacy.io/) para tareas típicas de PLN
- |**Lab assignment 2**|
+|Week 2-Class 2| Introducción a [spaCy](https://spacy.io/) para tareas típicas de PLN |**Lab assignment 2**|
 |Week 3-Class 1| Introducción a [SEÑAL](https://xn--seal-hqa.io/) para el análisis y evaluación de ensayos escritos por estudiantes de español como L2 <br />| |
 |Week 3-Class 2| Introducción al análisis de sentimiento | **Lab assignment 3** |
 |Week 4-Class 1| Extracción de datos de [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)  | Start preparing your idea for your NLP Application|

@@ -13,5 +13,5 @@
 
 Completar y subir el pantallazo de finalización de los siguientes tutoriales en LinkedIn Learning (https://www.mnsu.edu/it-solutions/help-support/linkedinlearning_training/)
 
-Fundamentals of Programming Languages - Section 1: Programming Basics (https://www.linkedin.com/learning/programming-foundations-fundamentals/what-is-programming?autoplay=true&resume=false&u=57684185)
-Python for Non-Programmers. Sections 1, 2 & 3. (https://www.linkedin.com/learning/python-for-non-programmers/)
+- Fundamentals of Programming Languages. Section 1: Programming Basics (https://www.linkedin.com/learning/programming-foundations-fundamentals/what-is-programming?autoplay=true&resume=false&u=57684185)
+- Python for Non-Programmers. Sections 1, 2 & 3. (https://www.linkedin.com/learning/python-for-non-programmers/)
