@@ -62,13 +62,13 @@ Alternative corpora resources.
 
 | Date  | Class       | Tasks       |
 | :---  | ----------- | ----------- |
-| Week 1,  Class 1| **Práctica de Linux**. Procesamiento de textos utilizando el Command Line. Empieza aquí [Linux Online](https://vfsync.org/vm.html) |
-| Week 1,  Class 2| **Práctica de Python** <br /> - Procesamiento de textos utilizando Python. Descarga el editor de texto [**Atom**](https://atom.io/). <br /> | **Lab assignment 1**|
-|Week 2,  Class 1| Introducción a [NLTK](https://www.nltk.org/) y [spaCy](https://spacy.io/) para tareas típicas de PLN| **Lab assignment 2**|
-|Week 2,  Class 2| Introducción a [SEÑAL](https://xn--seal-hqa.io/) para el análisis y evaluación de ensayo escritos por estudiantes de español <br /> |**Lab assignment 3**|
-|Week 3,  Class 1| El analizador de sentimiento y el portafolio de enseñanza| **Teaching Portfolio**|
-|Week 3,  Class 2| Extracción de datos de Twitter| Twitter Developer API: [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)|
-|Week 4, Class 1| Anotación de datos | Start annotating your data for your NLP Application|
-|Week 4, Class 2| Introducción a Machine Learning para entrenar clasificadores textuales | Continue annotating your data for your NLP Application|
-|Week 5, Class 1| Entrena tu clasificador| |
-|Week 5, Class 2| Presenta tu proyecto a tus compañeros | **Submit your Presentation and Python Notebook**|
+| Week 1-Class 1| **Práctica de Linux**. Procesamiento de textos utilizando el Command Line. Empieza aquí [Linux Online](https://vfsync.org/vm.html) |
+| Week 1-Class 2| **Práctica de Python** <br /> - Procesamiento de textos utilizando Python. Descarga el editor de texto [**Atom**](https://atom.io/). <br /> | **Lab assignment 1**|
+|Week 2-Class 1| Introducción a [NLTK](https://www.nltk.org/) y [spaCy](https://spacy.io/) para tareas típicas de PLN| **Lab assignment 2**|
+|Week 2-Class 2| Introducción a [SEÑAL](https://xn--seal-hqa.io/) para el análisis y evaluación de ensayo escritos por estudiantes de español <br /> |**Lab assignment 3**|
+|Week 3-Class 1| El analizador de sentimiento y el portafolio de enseñanza| **Teaching Portfolio**|
+|Week 3-Class 2| Extracción de datos de Twitter| Twitter Developer API: [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)|
+|Week 4-Class 1| Anotación de datos | Start annotating your data for your NLP Application|
+|Week 4-Class 2| Introducción a Machine Learning para entrenar clasificadores textuales | Continue annotating your data for your NLP Application|
+|Week 5-Class 1| Entrena tu clasificador| |
+|Week 5-Class 2| Presenta tu proyecto a tus compañeros | **Submit your Presentation and Python Notebook**|
