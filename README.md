@@ -1,3 +1,3 @@
-# NLP4SPanish
+# NLP4SPanish 2022
 
-Course materials for the NLP4Spanish course taught in Summer 2021 for the Department of Spanish and Portuguese Studies at the University of Florida.
+Course materials for the NLP4Spanish course that is being taught in Summer 2022 for the Department of World Languages and Cultures at Minnesota State University.

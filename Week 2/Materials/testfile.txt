@@ -1,8 +1,0 @@
-Hola.
-Esto es una prueba.
-Esto también es una prueba.
-Sorprendentemente, esto también es una prueba.
-Existe la posibilidad de que esta línea también sea una prueba.
-Recuerde el 'off by one error'. Esta no es la línea seis, es la línea cinco.
-Tokenizar es fácil.
-Para un experimento divertido, vea cómo los caracteres extraños como ", ',;, ^ y \ afectan su código.
