@@ -30,8 +30,8 @@ Student success relating to these objectives will be assessed on (tentative and 
 1.	**Lab assignments (x3)**: These assignments will require you to implement already-prepared computational algorithms on Spanish datasets and explore potential improvements and applications.  
 2. **NLP project**: Think about an idea in which you can use what you have learned in the class to find a solution to an interesting phenomenon in the Spanish language. There are three different project ideas you can choose from:
 
-    1. Teaching Portfolio: You can create a teaching portfolio that includes an analysis of positive, negative or neutral sentiment in students' comments.
-    2. Assessing L2 Spanish Writing Development: Interested into examining language development in L2 Spanish. You can use SEÑAL to create a comparative analysis of your L2 Spanish writing or that of your students.  
+    1. Teaching Portfolio: You can create a teaching portfolio that includes an analysis of positive, negative or neutral sentiment of students' comments.
+    2. Assessing L2 Spanish Writing Development: Interested into examining language development in L2 Spanish. You can use SEÑAL to create a comparative analysis of your L2 Spanish writing or that of your students or yourself.  
     3. Machine Learning Text Classifier: Here, you will develop a machine learning classifier for examining a phenomenon in the Spanish language. You will (extract and) annotate data and use machine learning algorithms to train a text classifier. This option is the most challenging but one of the most rewarding if you wish to pursue research or want to learn more about machine learning.
 
 Ojo: you will present the development of your NLP project on the class of **June 15th**.
@@ -62,7 +62,7 @@ Alternative corpora resources.
 -	Steven Bird et al. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. O’Reilly Media, Inc. (Selected chapters) https://www.nltk.org/book/
 -	Tutorial de NLTK en Python: https://likegeeks.com/es/tutorial-de-nlp-con-python-nltk/
 
-## Schedule
+## Schedule (Tentative and Subject to Change)
 
 | Date  | Class       | Tasks       |
 | :---  | ----------- | ----------- |
@@ -71,8 +71,8 @@ Alternative corpora resources.
 |Week 2-Class 1| Introducción a [NLTK](https://www.nltk.org/) para tareas típicas de PLN| |
 |Week 2-Class 2| Introducción a [spaCy](https://spacy.io/) para tareas típicas de PLN |**Lab assignment 2**|
 |Week 3-Class 1| Introducción a [SEÑAL](https://xn--seal-hqa.io/) para el análisis y evaluación de ensayos escritos por estudiantes de español como L2 <br />| |
-|Week 3-Class 2| Introducción al análisis de sentimiento | **Lab assignment 3** |
-|Week 4-Class 1| Extracción de datos de [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)  | Start preparing your idea for your NLP Application|
-|Week 4-Class 2| Anotación de datos | |
+|Week 3-Class 2| Análisis y evaluación de ensayos escritos por estudiantes de español como L2 utilizando [SEÑAL](https://xn--seal-hqa.io/) | **Lab assignment 3** |
+|Week 4-Class 1| Introducción al análisis de sentimiento  | Start preparing your idea for your NLP Application|
+|Week 4-Class 2| Anotación de datos | Continue your idea for your Class project |
 |Week 5-Class 1| Preparación para el proyecto de clase | |
 |Week 5-Class 2| Presenta tu proyecto a los compañeros | **Submit your Presentation and written report**|
