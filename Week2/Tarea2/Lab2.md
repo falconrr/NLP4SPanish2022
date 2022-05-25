@@ -33,7 +33,7 @@ Instrucciones:
 2. Establece una postura y defiende tu posición con argumentos coherentes. Sigue esta [guía](https://docs.google.com/document/d/1ne8YG5ZO1Bb7QJ9gdnh1VwKo3YL5RsEK/edit?usp=sharing&ouid=100340570072689040004&rtpof=true&sd=true)
 3. Escribe un ensayo retórico de 700 palabras.
 
-*Para la siguiente semana*: Piensa en la idea de tu proyecto. Revisa el sílabo de la clase. ¿Qué te gustaría investigar, publicar, conocer más sobre tu escritura en español, etc.?
+*Para la siguiente semana*: Piensa en la idea de tu proyecto. Revisa el sílabo de la clase. 
 
 ### Para SPAN 401: piensa qué te gustaría conocer más sobre tu escritura en español
 ### Para SPAN 501: piensa qué te gustaría investigar, publicar, o conocer más sobre la escritura de tus estudiantes
